@@ -1,0 +1,87 @@
+ /* #loginPage{
+    background-image:url("Bg4.jpg");  
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 657px;  
+    font-family: 'Numans', sans-serif;
+  } 
+   */
+ /* #loginForm{
+    font-size:25px;
+    width: 700px;
+    border-radius: 3%;
+    background-color: rgba(0,0,0,0.5) !important;
+  }
+  
+  #submitButton{
+    width: 200px;
+    align-content: center;
+    background-color:rgba(179, 39, 39, 0.445);
+    color: white;
+    margin-left: 35%;
+    font-weight: bolder;
+  }
+  #submitButton1{
+    width: 200px;
+    align-content: center;
+    background-color:rgba(11, 214, 79, 0.493);
+    color: white;
+    margin-left: 35%;
+    font-weight: bolder;
+  }
+  #note1{
+    color: rgb(245, 209, 8);
+   
+  }
+  #submitButton:hover{
+    background-color: crimson;
+    color: white;
+  }
+  #submitButton1:hover{
+    background-color: rgb(5, 158, 69);
+    color: white;
+  } */
+
+
+
+  /***********/
+
+#usernameId,#passwordId{
+  background-color: rgb(229, 227, 231);
+  width: 318px;
+}
+#btn1{
+  margin-left: 53px;
+  margin-top: 13px;
+  width: 194px;
+}
+#btn2{
+  margin-left: 53px;
+  margin-top: 13px;
+  width: 194px;
+}
+
+#Login-Component{
+  background-image: url("Bg4.jpg");
+  position: fixed;
+  min-width: 100%;
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+#myForm{
+  background-color: rgb(18 19 18 / 31%);
+  margin-top: 7%;
+  width: 502px;
+  border-radius: 3%;
+}
+#note3{
+  font-size: 2rem;
+  font-weight: bolder;
+  color: #fdf60d;
+  text-align: center;
+}
+#uname,#pass,#sign{
+  color: #f8f9fa;
+  font-weight: bold;
+}
